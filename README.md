@@ -24,4 +24,4 @@
 
 
 <h1>How to Run</h1>
-Install dependecies through command <code>npm init</code> and start development server use <code>npm start</code> OR <code>ng serve</code>.
+Install dependecies through command <code>npm init</code> and start development server use <code>npm start</code> or <code>ng serve</code>.
